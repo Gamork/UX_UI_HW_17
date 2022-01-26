@@ -1,0 +1,14 @@
+.inline-block {
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+.header {
+    width: 73%;
+    padding: 1%;
+}
+.body {
+    background-color:black;
+}
